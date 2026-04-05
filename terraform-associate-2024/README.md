@@ -1,1 +1,0 @@
-This repo is all about terrfaorm learning resources.
